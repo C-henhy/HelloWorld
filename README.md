@@ -1,2 +1,2 @@
 # HelloWorld
-Multiple Language HelloWorld nomore samples
+Multiple Language HelloWorld samples
